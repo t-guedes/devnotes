@@ -1,6 +1,6 @@
 # 📝 DevNotes
 
-DevNotes é um projeto web moderno desenvolvido com HTML, CSS e JavaScript puro. Ele oferece uma interface prática e responsiva para registrar, fixar, duplicar, remover, localizar e exportar conteúdos diretamente no navegador, com armazenamento automático via `localStorage`..
+DevNotes é um projeto web moderno desenvolvido com HTML, CSS e JavaScript puro. Ele oferece uma interface prática e responsiva para registrar, fixar, duplicar, remover, localizar e exportar conteúdos diretamente no navegador, com armazenamento automático via `localStorage`.
 
 ## 📸 Preview
 
