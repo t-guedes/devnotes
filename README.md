@@ -25,7 +25,18 @@ DevNotes é um projeto web moderno desenvolvido com HTML, CSS e JavaScript puro.
 - `localStorage` para persistência de dados no navegador
   
 ---
+## 📁 Estrutura de Pastas
 
+```
+20_devnotes/
+│
+├── index.html          # Estrutura da página
+├── css/
+│   └── style.css       # Estilização da interface
+├── js/
+│   └── script.js       # Lógica de geração de senhas
+
+```
 ## 📸 Preview
 
 > **Interface limpa, responsiva e funcional para organizar suas ideias rapidamente.**
